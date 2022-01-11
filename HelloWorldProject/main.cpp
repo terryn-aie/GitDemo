@@ -6,5 +6,7 @@ int main()
 	std::cout << "We hope your time in the classroom has been a pleasant one." << std::endl;
 	std::cout << "For your own safety and the safety of others, please refrain from ______." << std::endl;
 
+	std::cout << "This program is used with permission from the Australian Science team" << std::endl;
+
 	return 0;
 }
